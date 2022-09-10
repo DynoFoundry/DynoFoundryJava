@@ -22,7 +22,7 @@ var query = dynoFoundry.query(CollectedType.class)
 
 ## Status of the Project
 
-POC is underway. Check out the [feat/poc](./tree/feat/poc) branch.
+POC is underway. Check out the [feat/poc](https://github.com/DynoFoundry/DynoFoundryJava/tree/feat/poc) branch.
 
 ## Being Used by
 
